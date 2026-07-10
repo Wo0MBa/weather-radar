@@ -18,10 +18,10 @@
   "KORD": {
     "name": "Chicago",
     "code": "KORD",
-    "current": 78.8,
-    "max": 78.8,
+    "current": 78.98,
+    "max": 78.98,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KDEN": {
     "name": "Denver",
@@ -29,7 +29,7 @@
     "current": 71.96,
     "max": 71.96,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
@@ -37,63 +37,63 @@
     "current": 68.0,
     "max": 68.0,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KSEA": {
     "name": "Seattle",
     "code": "KSEA",
-    "current": 60.8,
+    "current": 60.98,
     "max": 64.4,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KATL": {
     "name": "Atlanta",
     "code": "KATL",
-    "current": 87.8,
-    "max": 89.6,
+    "current": 89.96,
+    "max": 89.96,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KAUS": {
     "name": "Austin",
     "code": "KAUS",
-    "current": 86.0,
-    "max": 86.0,
+    "current": 87.98,
+    "max": 87.98,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KDFW": {
     "name": "Dallas",
     "code": "KDFW",
-    "current": 89.6,
-    "max": 89.6,
+    "current": 89.96,
+    "max": 89.96,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KIAH": {
     "name": "Houston",
     "code": "KIAH",
-    "current": 87.8,
+    "current": 87.08,
     "max": 87.8,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KJFK": {
     "name": "New York",
     "code": "KJFK",
-    "current": 86.0,
-    "max": 86.0,
+    "current": 87.98,
+    "max": 87.98,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "KMIA": {
     "name": "Miami",
     "code": "KMIA",
-    "current": 91.4,
+    "current": 91.04,
     "max": 91.4,
     "unit": "F",
-    "updated": "18:53:16 MSK"
+    "updated": "18:58:20 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
