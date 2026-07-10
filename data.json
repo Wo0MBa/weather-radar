@@ -90,10 +90,10 @@
   "KIAH": {
     "name": "Houston",
     "code": "KIAH",
-    "current": 78.8,
+    "current": 78.08,
     "max": 78.8,
     "unit": "F",
-    "updated": "09:54:52 MSK"
+    "updated": "10:00:32 MSK"
   },
   "KJFK": {
     "name": "New York",
