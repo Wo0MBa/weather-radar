@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌀 Вумбыч Weather Radar</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #0f172a; color: #f8fafc; display: flex; flex-direction: column; align-items: center; padding: 20px; }
+        .container { max-width: 900px; width: 100%; }
+        h1 { color: #38bdf8; border-bottom: 2px solid #38bdf8; padding-bottom: 10px; text-align: center; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px; }
+        .card { background-color: #1e293b; padding: 20px; border-radius: 12px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); transition: transform 0.2s; }
+        .card:hover { transform: translateY(-5px); border-color: #38bdf8; }
+        .city-name { font-size: 1.2em; font-weight: bold; margin-bottom: 10px; color: #e2e8f0; display: flex; justify-content: space-between; }
+        .temp-live { font-size: 2.5em; font-weight: bold; color: #38bdf8; margin: 10px 0; }
+        .temp-max { color: #f43f5e; font-weight: bold; }
+        .updated { font-size: 0.8em; color: #94a3b8; margin-top: 15px; }
+        .status-online { width: 10px; height: 10px; background-color: #10b981; border-radius: 50%; display: inline-block; margin-right: 5px; }
+        .refresh-hint { text-align: center; margin-top: 30px; color: #64748b; font-size: 0.9em; }
+    </style>
+    <script>
+        async function updateWeather() {
+            try {
+                const response = await fetch('data.json?t=' + new Date().getTime());
+                const data = await response.json();
+                const grid = document.getElementById('weather-grid');
+                grid.innerHTML = '';
+
+                for (const [id, info] of Object.entries(data)) {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                        <div class="city-name">${info.name} <span>${info.code}</span></div>
+                        <div class="temp-live">${info.current}°${info.unit}</div>
+                        <div>Максимум сегодня: <span class="temp-max">${info.max}°${info.unit}</span></div>
+                        <div class="updated"><span class="status-online"></span> Обновлено: ${info.updated}</div>
+                    `;
+                    grid.appendChild(card);
+                }
+            } catch (e) {
+                console.error("Ошибка загрузки данных", e);
+            }
+        }
+        setInterval(updateWeather, 30000);
+        window.onload = updateWeather;
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>🌀 Вумбыч Weather Radar</h1>
+        <div id="weather-grid" class="grid">
+            <div style="text-align: center; grid-column: 1/-1;">Загрузка данных...</div>
+        </div>
+        <p class="refresh-hint">Данные обновляются автоматически каждые 30 секунд.<br>Источник: Synoptic Data / HKO / NOAA</p>
+    </div>
+</body>
+</html>
