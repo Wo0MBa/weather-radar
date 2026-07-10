@@ -21,7 +21,7 @@
     "current": 71.6,
     "max": 71.6,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KDEN": {
     "name": "Denver",
@@ -29,15 +29,15 @@
     "current": 57.92,
     "max": 60.98,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
     "code": "KLAX",
-    "current": 66.2,
+    "current": 64.4,
     "max": 66.2,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KSEA": {
     "name": "Seattle",
@@ -45,7 +45,7 @@
     "current": 55.4,
     "max": 64.4,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KATL": {
     "name": "Atlanta",
@@ -53,7 +53,7 @@
     "current": 78.8,
     "max": 78.8,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KAUS": {
     "name": "Austin",
@@ -61,7 +61,7 @@
     "current": 73.4,
     "max": 78.8,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KDFW": {
     "name": "Dallas",
@@ -69,7 +69,7 @@
     "current": 80.6,
     "max": 87.8,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KIAH": {
     "name": "Houston",
@@ -77,7 +77,7 @@
     "current": 78.8,
     "max": 80.6,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KJFK": {
     "name": "New York",
@@ -85,7 +85,7 @@
     "current": 78.98,
     "max": 78.98,
     "unit": "F",
-    "updated": "15:29:12 MSK"
+    "updated": "15:34:17 MSK"
   },
   "KMIA": {
     "name": "Miami",
@@ -93,22 +93,6 @@
     "current": 87.8,
     "max": 87.8,
     "unit": "F",
-    "updated": "15:29:12 MSK"
-  },
-  "EHAM": {
-    "name": "Amsterdam",
-    "code": "EHAM",
-    "current": 25.0,
-    "max": 25.0,
-    "unit": "C",
-    "updated": "15:34:04 MSK"
-  },
-  "EFHK": {
-    "name": "Helsinki",
-    "code": "EFHK",
-    "current": 20.0,
-    "max": 21.0,
-    "unit": "C",
-    "updated": "15:34:04 MSK"
+    "updated": "15:34:17 MSK"
   }
 }
