@@ -94,5 +94,13 @@
     "max": 78.8,
     "unit": "F",
     "updated": "09:54:52 MSK"
+  },
+  "KJFK": {
+    "name": "New York",
+    "code": "KJFK",
+    "current": 73.04,
+    "max": 73.04,
+    "unit": "F",
+    "updated": "09:54:55 MSK"
   }
 }
