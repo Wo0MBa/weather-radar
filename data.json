@@ -86,5 +86,13 @@
     "max": 87.8,
     "unit": "F",
     "updated": "09:54:48 MSK"
+  },
+  "KIAH": {
+    "name": "Houston",
+    "code": "KIAH",
+    "current": 78.8,
+    "max": 78.8,
+    "unit": "F",
+    "updated": "09:54:52 MSK"
   }
 }
