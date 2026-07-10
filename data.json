@@ -98,10 +98,10 @@
   "EHAM": {
     "name": "Amsterdam",
     "code": "EHAM",
-    "current": 25.0,
+    "current": 24.0,
     "max": 26.0,
     "unit": "C",
-    "updated": "21:26:40 MSK"
+    "updated": "21:27:47 MSK"
   },
   "EFHK": {
     "name": "Helsinki",
@@ -109,7 +109,7 @@
     "current": 19.0,
     "max": 22.0,
     "unit": "C",
-    "updated": "21:26:40 MSK"
+    "updated": "21:27:47 MSK"
   },
   "UUWW": {
     "name": "Moscow Vnukovo",
