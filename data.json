@@ -94,5 +94,13 @@
     "max": 87.8,
     "unit": "F",
     "updated": "15:34:17 MSK"
+  },
+  "UUWW": {
+    "name": "Moscow Vnukovo",
+    "code": "UUWW",
+    "current": 26.0,
+    "max": 26.0,
+    "unit": "C",
+    "updated": "15:35:02 MSK"
   }
 }
