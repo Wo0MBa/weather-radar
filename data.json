@@ -78,5 +78,13 @@
     "max": 78.8,
     "unit": "F",
     "updated": "09:54:45 MSK"
+  },
+  "KDFW": {
+    "name": "Dallas",
+    "code": "KDFW",
+    "current": 86.0,
+    "max": 87.8,
+    "unit": "F",
+    "updated": "09:54:48 MSK"
   }
 }
