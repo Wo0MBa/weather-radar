@@ -102,5 +102,13 @@
     "max": 73.04,
     "unit": "F",
     "updated": "09:54:55 MSK"
+  },
+  "KMIA": {
+    "name": "Miami",
+    "code": "KMIA",
+    "current": 84.2,
+    "max": 84.2,
+    "unit": "F",
+    "updated": "09:54:58 MSK"
   }
 }
