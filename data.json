@@ -94,5 +94,21 @@
     "max": 86.0,
     "unit": "F",
     "updated": "14:38:34 MSK"
+  },
+  "EHAM": {
+    "name": "Amsterdam",
+    "code": "EHAM",
+    "current": 24.0,
+    "max": 24.0,
+    "unit": "C",
+    "updated": "14:38:38 MSK"
+  },
+  "EFHK": {
+    "name": "Helsinki",
+    "code": "EFHK",
+    "current": 21.0,
+    "max": 21.0,
+    "unit": "C",
+    "updated": "14:38:38 MSK"
   }
 }
