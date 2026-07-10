@@ -46,5 +46,13 @@
     "max": 64.4,
     "unit": "F",
     "updated": "09:54:32 MSK"
+  },
+  "KPHX": {
+    "name": "Phoenix",
+    "code": "KPHX",
+    "current": 100.4,
+    "max": 102.2,
+    "unit": "F",
+    "updated": "09:54:35 MSK"
   }
 }
