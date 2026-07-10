@@ -42,10 +42,10 @@
   "KLAX": {
     "name": "Los Angeles",
     "code": "KLAX",
-    "current": 64.4,
-    "max": 64.4,
+    "current": 64.94,
+    "max": 64.94,
     "unit": "F",
-    "updated": "09:54:32 MSK"
+    "updated": "10:00:12 MSK"
   },
   "KPHX": {
     "name": "Phoenix",
