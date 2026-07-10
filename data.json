@@ -1,5 +1,34 @@
 {
-  "HKO": {"name": "Hong Kong", "code": "HKO", "current": 32.7, "max": 32.8, "unit": "C", "updated": "Wait..."},
-  "S24": {"name": "Singapore", "code": "S24", "current": 30.5, "max": 31.2, "unit": "C", "updated": "Wait..."},
-  "KORD": {"name": "Chicago", "code": "KORD", "current": 84.2, "max": 86.0, "unit": "F", "updated": "Wait..."}
+  "HKO": {
+    "name": "Hong Kong",
+    "code": "HKO",
+    "current": 32.7,
+    "max": 32.8,
+    "unit": "C",
+    "updated": "Wait..."
+  },
+  "S24": {
+    "name": "Singapore",
+    "code": "S24",
+    "current": 30.5,
+    "max": 31.2,
+    "unit": "C",
+    "updated": "Wait..."
+  },
+  "KORD": {
+    "name": "Chicago",
+    "code": "KORD",
+    "current": 84.2,
+    "max": 86.0,
+    "unit": "F",
+    "updated": "Wait..."
+  },
+  "KDEN": {
+    "name": "Denver",
+    "code": "KDEN",
+    "current": 59.0,
+    "max": 59.0,
+    "unit": "F",
+    "updated": "09:54:25 MSK"
+  }
 }
