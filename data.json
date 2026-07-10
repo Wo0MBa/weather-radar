@@ -31,14 +31,6 @@
     "unit": "F",
     "updated": "10:22:51 MSK"
   },
-  "KLAS": {
-    "name": "Las Vegas",
-    "code": "KLAS",
-    "current": 95.0,
-    "max": 96.8,
-    "unit": "F",
-    "updated": "10:22:54 MSK"
-  },
   "KLAX": {
     "name": "Los Angeles",
     "code": "KLAX",
@@ -46,14 +38,6 @@
     "max": 64.94,
     "unit": "F",
     "updated": "10:22:58 MSK"
-  },
-  "KPHX": {
-    "name": "Phoenix",
-    "code": "KPHX",
-    "current": 102.2,
-    "max": 102.2,
-    "unit": "F",
-    "updated": "10:23:02 MSK"
   },
   "KSEA": {
     "name": "Seattle",
@@ -109,6 +93,6 @@
     "current": 84.2,
     "max": 86.0,
     "unit": "F",
-    "updated": "10:17:44 MSK"
+    "updated": "10:23:25 MSK"
   }
 }
