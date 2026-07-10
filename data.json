@@ -94,5 +94,109 @@
     "max": 86.0,
     "unit": "F",
     "updated": "11:41:04 MSK"
+  },
+  "LFPG": {
+    "name": "Paris CDG",
+    "code": "LFPG",
+    "current": 28.0,
+    "max": 28.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "EPWA": {
+    "name": "Warsaw",
+    "code": "EPWA",
+    "current": 17.0,
+    "max": 17.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "LEMD": {
+    "name": "Madrid",
+    "code": "LEMD",
+    "current": 30.0,
+    "max": 30.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "EHAM": {
+    "name": "Amsterdam",
+    "code": "EHAM",
+    "current": 21.0,
+    "max": 21.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "LLBG": {
+    "name": "Tel Aviv",
+    "code": "LLBG",
+    "current": 30.0,
+    "max": 30.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "EFHK": {
+    "name": "Helsinki",
+    "code": "EFHK",
+    "current": 21.0,
+    "max": 21.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "EDDM": {
+    "name": "Munich",
+    "code": "EDDM",
+    "current": 23.0,
+    "max": 23.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "LIMC": {
+    "name": "Milan",
+    "code": "LIMC",
+    "current": 30.0,
+    "max": 30.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "EGLC": {
+    "name": "London City",
+    "code": "EGLC",
+    "current": 26.0,
+    "max": 26.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "LTBA": {
+    "name": "Istanbul",
+    "code": "LTBA",
+    "current": 24.0,
+    "max": 24.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "LTAC": {
+    "name": "Ankara",
+    "code": "LTAC",
+    "current": 26.0,
+    "max": 26.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "OEJN": {
+    "name": "Jeddah",
+    "code": "OEJN",
+    "current": 37.0,
+    "max": 37.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
+  },
+  "FACT": {
+    "name": "Cape Town",
+    "code": "FACT",
+    "current": 14.0,
+    "max": 14.0,
+    "unit": "C",
+    "updated": "11:41:49 MSK"
   }
 }
