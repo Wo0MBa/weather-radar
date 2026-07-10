@@ -54,5 +54,13 @@
     "max": 102.2,
     "unit": "F",
     "updated": "09:54:35 MSK"
+  },
+  "KSEA": {
+    "name": "Seattle",
+    "code": "KSEA",
+    "current": 62.6,
+    "max": 64.4,
+    "unit": "F",
+    "updated": "09:54:38 MSK"
   }
 }
