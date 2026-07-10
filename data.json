@@ -18,10 +18,10 @@
   "KORD": {
     "name": "Chicago",
     "code": "KORD",
-    "current": 80.06,
-    "max": 80.06,
+    "current": 80.6,
+    "max": 80.6,
     "unit": "F",
-    "updated": "21:00:04 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KDEN": {
     "name": "Denver",
@@ -29,39 +29,39 @@
     "current": 82.94,
     "max": 82.94,
     "unit": "F",
-    "updated": "21:00:03 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
     "code": "KLAX",
-    "current": 73.94,
+    "current": 73.4,
     "max": 73.94,
     "unit": "F",
-    "updated": "21:00:03 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KSEA": {
     "name": "Seattle",
     "code": "KSEA",
-    "current": 66.92,
+    "current": 66.2,
     "max": 66.92,
     "unit": "F",
-    "updated": "21:00:03 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KATL": {
     "name": "Atlanta",
     "code": "KATL",
-    "current": 91.94,
+    "current": 93.2,
     "max": 93.2,
     "unit": "F",
-    "updated": "21:00:03 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KAUS": {
     "name": "Austin",
     "code": "KAUS",
-    "current": 91.94,
+    "current": 91.4,
     "max": 91.94,
     "unit": "F",
-    "updated": "21:00:03 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KDFW": {
     "name": "Dallas",
@@ -69,15 +69,15 @@
     "current": 95.0,
     "max": 95.0,
     "unit": "F",
-    "updated": "21:00:03 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KIAH": {
     "name": "Houston",
     "code": "KIAH",
-    "current": 89.06,
+    "current": 89.6,
     "max": 89.6,
     "unit": "F",
-    "updated": "21:00:04 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KJFK": {
     "name": "New York",
@@ -85,15 +85,15 @@
     "current": 86.0,
     "max": 87.98,
     "unit": "F",
-    "updated": "21:00:04 MSK"
+    "updated": "21:05:08 MSK"
   },
   "KMIA": {
     "name": "Miami",
     "code": "KMIA",
-    "current": 89.96,
+    "current": 89.6,
     "max": 93.2,
     "unit": "F",
-    "updated": "21:00:04 MSK"
+    "updated": "21:05:08 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
