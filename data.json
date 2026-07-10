@@ -101,7 +101,7 @@
     "current": 24.0,
     "max": 24.0,
     "unit": "C",
-    "updated": "14:14:24 MSK"
+    "updated": "14:15:36 MSK"
   },
   "EFHK": {
     "name": "Helsinki",
@@ -109,6 +109,6 @@
     "current": 21.0,
     "max": 21.0,
     "unit": "C",
-    "updated": "14:14:24 MSK"
+    "updated": "14:15:36 MSK"
   }
 }
