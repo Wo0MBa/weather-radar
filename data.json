@@ -50,10 +50,10 @@
   "KPHX": {
     "name": "Phoenix",
     "code": "KPHX",
-    "current": 100.4,
+    "current": 100.94,
     "max": 102.2,
     "unit": "F",
-    "updated": "09:54:35 MSK"
+    "updated": "10:00:16 MSK"
   },
   "KSEA": {
     "name": "Seattle",
