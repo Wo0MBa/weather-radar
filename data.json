@@ -101,7 +101,7 @@
     "current": 28.0,
     "max": 28.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "EPWA": {
     "name": "Warsaw",
@@ -109,7 +109,7 @@
     "current": 17.0,
     "max": 17.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "LEMD": {
     "name": "Madrid",
@@ -117,7 +117,7 @@
     "current": 30.0,
     "max": 30.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
@@ -125,7 +125,7 @@
     "current": 21.0,
     "max": 21.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "LLBG": {
     "name": "Tel Aviv",
@@ -133,7 +133,7 @@
     "current": 30.0,
     "max": 30.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "EFHK": {
     "name": "Helsinki",
@@ -141,7 +141,7 @@
     "current": 21.0,
     "max": 21.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "EDDM": {
     "name": "Munich",
@@ -149,7 +149,7 @@
     "current": 23.0,
     "max": 23.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "LIMC": {
     "name": "Milan",
@@ -157,7 +157,7 @@
     "current": 30.0,
     "max": 30.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "EGLC": {
     "name": "London City",
@@ -165,7 +165,7 @@
     "current": 26.0,
     "max": 26.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "LTBA": {
     "name": "Istanbul",
@@ -173,7 +173,7 @@
     "current": 24.0,
     "max": 24.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "LTAC": {
     "name": "Ankara",
@@ -181,7 +181,7 @@
     "current": 26.0,
     "max": 26.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "OEJN": {
     "name": "Jeddah",
@@ -189,7 +189,7 @@
     "current": 37.0,
     "max": 37.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   },
   "FACT": {
     "name": "Cape Town",
@@ -197,6 +197,6 @@
     "current": 14.0,
     "max": 14.0,
     "unit": "C",
-    "updated": "11:38:38 MSK"
+    "updated": "11:39:42 MSK"
   }
 }
