@@ -66,10 +66,10 @@
   "KATL": {
     "name": "Atlanta",
     "code": "KATL",
-    "current": 75.2,
+    "current": 75.92,
     "max": 77.0,
     "unit": "F",
-    "updated": "09:54:42 MSK"
+    "updated": "10:00:22 MSK"
   },
   "KAUS": {
     "name": "Austin",
