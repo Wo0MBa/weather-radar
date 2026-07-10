@@ -38,5 +38,13 @@
     "max": 96.8,
     "unit": "F",
     "updated": "09:54:28 MSK"
+  },
+  "KLAX": {
+    "name": "Los Angeles",
+    "code": "KLAX",
+    "current": 64.4,
+    "max": 64.4,
+    "unit": "F",
+    "updated": "09:54:32 MSK"
   }
 }
