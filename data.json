@@ -58,10 +58,10 @@
   "KSEA": {
     "name": "Seattle",
     "code": "KSEA",
-    "current": 62.6,
+    "current": 62.06,
     "max": 64.4,
     "unit": "F",
-    "updated": "09:54:38 MSK"
+    "updated": "10:00:18 MSK"
   },
   "KATL": {
     "name": "Atlanta",
