@@ -26,10 +26,10 @@
   "KDEN": {
     "name": "Denver",
     "code": "KDEN",
-    "current": 59.0,
-    "max": 59.0,
+    "current": 60.98,
+    "max": 60.98,
     "unit": "F",
-    "updated": "09:54:25 MSK"
+    "updated": "10:00:06 MSK"
   },
   "KLAS": {
     "name": "Las Vegas",
