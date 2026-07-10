@@ -79,14 +79,6 @@
     "unit": "F",
     "updated": "22:56:49 MSK"
   },
-  "KJFK": {
-    "name": "New York",
-    "code": "KJFK",
-    "current": 86.0,
-    "max": 87.98,
-    "unit": "F",
-    "updated": "22:56:49 MSK"
-  },
   "KMIA": {
     "name": "Miami",
     "code": "KMIA",
