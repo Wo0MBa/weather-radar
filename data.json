@@ -2,10 +2,10 @@
   "HKO": {
     "name": "Hong Kong",
     "code": "HKO",
-    "current": 32.2,
+    "current": 32.0,
     "max": 33.1,
     "unit": "C",
-    "updated": "10:56:29 MSK"
+    "updated": "10:57:34 MSK"
   },
   "S24": {
     "name": "Singapore",
