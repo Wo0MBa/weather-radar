@@ -21,7 +21,7 @@
     "current": 77.0,
     "max": 77.0,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KDEN": {
     "name": "Denver",
@@ -29,55 +29,55 @@
     "current": 71.96,
     "max": 71.96,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
     "code": "KLAX",
-    "current": 66.02,
+    "current": 66.2,
     "max": 66.2,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KSEA": {
     "name": "Seattle",
     "code": "KSEA",
-    "current": 57.02,
+    "current": 57.2,
     "max": 64.4,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KATL": {
     "name": "Atlanta",
     "code": "KATL",
-    "current": 87.08,
+    "current": 87.8,
     "max": 87.8,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KAUS": {
     "name": "Austin",
     "code": "KAUS",
-    "current": 84.02,
+    "current": 84.2,
     "max": 84.2,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KDFW": {
     "name": "Dallas",
     "code": "KDFW",
-    "current": 87.08,
+    "current": 87.8,
     "max": 87.8,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KIAH": {
     "name": "Houston",
     "code": "KIAH",
-    "current": 87.08,
+    "current": 87.8,
     "max": 87.8,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KJFK": {
     "name": "New York",
@@ -85,15 +85,15 @@
     "current": 86.0,
     "max": 86.0,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "KMIA": {
     "name": "Miami",
     "code": "KMIA",
-    "current": 89.06,
+    "current": 91.4,
     "max": 91.4,
     "unit": "F",
-    "updated": "18:02:30 MSK"
+    "updated": "18:07:35 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
