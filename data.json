@@ -18,82 +18,82 @@
   "KORD": {
     "name": "Chicago",
     "code": "KORD",
-    "current": 71.6,
-    "max": 71.6,
+    "current": 71.96,
+    "max": 71.96,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KDEN": {
     "name": "Denver",
     "code": "KDEN",
-    "current": 57.92,
-    "max": 60.98,
+    "current": 62.96,
+    "max": 62.96,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
     "code": "KLAX",
-    "current": 64.4,
+    "current": 64.94,
     "max": 66.2,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KSEA": {
     "name": "Seattle",
     "code": "KSEA",
-    "current": 55.4,
+    "current": 55.94,
     "max": 64.4,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KATL": {
     "name": "Atlanta",
     "code": "KATL",
-    "current": 80.6,
+    "current": 80.06,
     "max": 80.6,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KAUS": {
     "name": "Austin",
     "code": "KAUS",
-    "current": 75.2,
+    "current": 75.92,
     "max": 78.8,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KDFW": {
     "name": "Dallas",
     "code": "KDFW",
-    "current": 80.6,
+    "current": 80.96,
     "max": 87.8,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KIAH": {
     "name": "Houston",
     "code": "KIAH",
-    "current": 80.6,
-    "max": 80.6,
+    "current": 80.96,
+    "max": 80.96,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KJFK": {
     "name": "New York",
     "code": "KJFK",
-    "current": 78.98,
-    "max": 78.98,
+    "current": 82.94,
+    "max": 82.94,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "KMIA": {
     "name": "Miami",
     "code": "KMIA",
-    "current": 87.8,
-    "max": 87.8,
+    "current": 87.98,
+    "max": 87.98,
     "unit": "F",
-    "updated": "15:55:37 MSK"
+    "updated": "16:00:42 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
