@@ -18,10 +18,10 @@
   "KORD": {
     "name": "Chicago",
     "code": "KORD",
-    "current": 69.98,
+    "current": 69.8,
     "max": 71.6,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KDEN": {
     "name": "Denver",
@@ -29,7 +29,7 @@
     "current": 59.0,
     "max": 60.98,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
@@ -37,15 +37,15 @@
     "current": 64.4,
     "max": 66.2,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KSEA": {
     "name": "Seattle",
     "code": "KSEA",
-    "current": 57.2,
+    "current": 55.4,
     "max": 64.4,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KATL": {
     "name": "Atlanta",
@@ -53,7 +53,7 @@
     "current": 77.0,
     "max": 77.0,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KAUS": {
     "name": "Austin",
@@ -61,7 +61,7 @@
     "current": 71.6,
     "max": 78.8,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KDFW": {
     "name": "Dallas",
@@ -69,7 +69,7 @@
     "current": 80.6,
     "max": 87.8,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KIAH": {
     "name": "Houston",
@@ -77,7 +77,7 @@
     "current": 75.2,
     "max": 80.6,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KJFK": {
     "name": "New York",
@@ -85,7 +85,7 @@
     "current": 75.92,
     "max": 75.92,
     "unit": "F",
-    "updated": "14:48:42 MSK"
+    "updated": "14:53:46 MSK"
   },
   "KMIA": {
     "name": "Miami",
@@ -93,30 +93,6 @@
     "current": 84.2,
     "max": 86.0,
     "unit": "F",
-    "updated": "14:48:42 MSK"
-  },
-  "EHAM": {
-    "name": "Amsterdam",
-    "code": "EHAM",
-    "current": 24.0,
-    "max": 24.0,
-    "unit": "C",
-    "updated": "14:52:44 MSK"
-  },
-  "EFHK": {
-    "name": "Helsinki",
-    "code": "EFHK",
-    "current": 20.0,
-    "max": 21.0,
-    "unit": "C",
-    "updated": "14:52:44 MSK"
-  },
-  "UUWW": {
-    "name": "Moscow Vnukovo",
-    "code": "UUWW",
-    "current": 25.0,
-    "max": 25.0,
-    "unit": "C",
-    "updated": "14:53:11 MSK"
+    "updated": "14:53:46 MSK"
   }
 }
