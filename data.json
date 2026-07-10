@@ -21,7 +21,7 @@
     "current": 80.6,
     "max": 80.96,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KDEN": {
     "name": "Denver",
@@ -29,7 +29,7 @@
     "current": 87.98,
     "max": 87.98,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
@@ -37,7 +37,7 @@
     "current": 73.4,
     "max": 73.94,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KSEA": {
     "name": "Seattle",
@@ -45,15 +45,15 @@
     "current": 73.4,
     "max": 73.4,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KATL": {
     "name": "Atlanta",
     "code": "KATL",
-    "current": 87.8,
+    "current": 84.2,
     "max": 93.2,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KAUS": {
     "name": "Austin",
@@ -61,7 +61,7 @@
     "current": 93.2,
     "max": 95.0,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KDFW": {
     "name": "Dallas",
@@ -69,7 +69,7 @@
     "current": 96.8,
     "max": 98.6,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KIAH": {
     "name": "Houston",
@@ -77,15 +77,15 @@
     "current": 89.6,
     "max": 91.94,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "KMIA": {
     "name": "Miami",
     "code": "KMIA",
-    "current": 89.6,
+    "current": 91.4,
     "max": 93.2,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
@@ -109,14 +109,14 @@
     "current": 18.0,
     "max": 28.0,
     "unit": "C",
-    "updated": "23:54:05 MSK"
+    "updated": "23:55:09 MSK"
   },
   "KLGA": {
     "name": "New York (LaGuardia)",
     "code": "KLGA",
-    "current": 87.8,
+    "current": 86.0,
     "max": 89.6,
     "unit": "F",
-    "updated": "23:49:20 MSK"
+    "updated": "23:54:24 MSK"
   }
 }
