@@ -101,7 +101,7 @@
     "current": 24.0,
     "max": 24.0,
     "unit": "C",
-    "updated": "13:59:25 MSK"
+    "updated": "14:00:29 MSK"
   },
   "EFHK": {
     "name": "Helsinki",
@@ -109,14 +109,6 @@
     "current": 21.0,
     "max": 21.0,
     "unit": "C",
-    "updated": "13:59:25 MSK"
-  },
-  "UUWW": {
-    "name": "Moscow Vnukovo",
-    "code": "UUWW",
-    "current": 22.0,
-    "max": 22.0,
-    "unit": "C",
-    "updated": "14:00:26 MSK"
+    "updated": "14:00:29 MSK"
   }
 }
