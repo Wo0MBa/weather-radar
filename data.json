@@ -101,7 +101,7 @@
     "current": 20.0,
     "max": 21.0,
     "unit": "C",
-    "updated": "14:59:20 MSK"
+    "updated": "15:00:26 MSK"
   },
   "EHAM": {
     "name": "Amsterdam",
@@ -109,14 +109,6 @@
     "current": 24.0,
     "max": 24.0,
     "unit": "C",
-    "updated": "14:59:20 MSK"
-  },
-  "UUWW": {
-    "name": "Moscow Vnukovo",
-    "code": "UUWW",
-    "current": 25.0,
-    "max": 25.0,
-    "unit": "C",
-    "updated": "14:59:40 MSK"
+    "updated": "15:00:26 MSK"
   }
 }
