@@ -30,5 +30,13 @@
     "max": 59.0,
     "unit": "F",
     "updated": "09:54:25 MSK"
+  },
+  "KLAS": {
+    "name": "Las Vegas",
+    "code": "KLAS",
+    "current": 96.8,
+    "max": 96.8,
+    "unit": "F",
+    "updated": "09:54:28 MSK"
   }
 }
