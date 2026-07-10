@@ -34,10 +34,10 @@
   "KLAS": {
     "name": "Las Vegas",
     "code": "KLAS",
-    "current": 96.8,
+    "current": 96.08,
     "max": 96.8,
     "unit": "F",
-    "updated": "09:54:28 MSK"
+    "updated": "10:00:09 MSK"
   },
   "KLAX": {
     "name": "Los Angeles",
