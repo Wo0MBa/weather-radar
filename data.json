@@ -18,10 +18,10 @@
   "KORD": {
     "name": "Chicago",
     "code": "KORD",
-    "current": 84.2,
-    "max": 86.0,
+    "current": 71.6,
+    "max": 71.6,
     "unit": "F",
-    "updated": "Wait..."
+    "updated": "09:55:01 MSK"
   },
   "KDEN": {
     "name": "Denver",
