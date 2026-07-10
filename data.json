@@ -70,5 +70,13 @@
     "max": 77.0,
     "unit": "F",
     "updated": "09:54:42 MSK"
+  },
+  "KAUS": {
+    "name": "Austin",
+    "code": "KAUS",
+    "current": 77.0,
+    "max": 78.8,
+    "unit": "F",
+    "updated": "09:54:45 MSK"
   }
 }
