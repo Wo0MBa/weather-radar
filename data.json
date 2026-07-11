@@ -1,19 +1,25 @@
 {
   "HKO": {
     "name": "Hong Kong",
-    "code": "HKO",
-    "current": 30.6,
-    "max": 33.1,
+    "code": "VHHH",
+    "current": 31.5,
+    "max_today": 31,
     "unit": "C",
-    "updated": "13:59:12 MSK"
+    "probability": 65,
+    "trend": -0.1,
+    "sky": "Clear",
+    "updated": "07:08 MSK"
   },
   "S24": {
     "name": "Singapore",
     "code": "S24",
-    "current": 30.5,
-    "max": 31.2,
+    "current": 29.9,
+    "max_today": 29,
     "unit": "C",
-    "updated": "Wait..."
+    "probability": 75,
+    "trend": -0.2,
+    "sky": "Clear",
+    "updated": "07:08 MSK"
   },
   "KORD": {
     "name": "Chicago",
@@ -118,5 +124,71 @@
     "max": 89.6,
     "unit": "F",
     "updated": "23:59:28 MSK"
+  },
+  "ZGSZ": {
+    "name": "Shenzhen",
+    "code": "ZGSZ",
+    "current": 32.0,
+    "max_today": 32,
+    "unit": "C",
+    "probability": 65,
+    "trend": -0.1,
+    "sky": "Clear",
+    "updated": "07:08 MSK"
+  },
+  "ZGGG": {
+    "name": "Guangzhou",
+    "code": "ZGGG",
+    "current": 34.0,
+    "max_today": 34,
+    "unit": "C",
+    "probability": 65,
+    "trend": -0.9,
+    "sky": "Clear",
+    "updated": "07:08 MSK"
+  },
+  "RJTT": {
+    "name": "Tokyo (Haneda)",
+    "code": "RJTT",
+    "current": 30.0,
+    "max_today": 30,
+    "unit": "C",
+    "probability": 20,
+    "trend": -0.1,
+    "sky": "Cloudy",
+    "updated": "07:08 MSK"
+  },
+  "RCTP": {
+    "name": "Taipei",
+    "code": "RCTP",
+    "current": 27.0,
+    "max_today": 27,
+    "unit": "C",
+    "probability": 40,
+    "trend": 0.6,
+    "sky": "Cloudy",
+    "updated": "07:08 MSK"
+  },
+  "RKSS": {
+    "name": "Seoul",
+    "code": "RKSS",
+    "current": 33.0,
+    "max_today": 33,
+    "unit": "C",
+    "probability": 65,
+    "trend": -0.7,
+    "sky": "Clear",
+    "updated": "07:08 MSK"
+  },
+  "VTBS": {
+    "name": "Bangkok",
+    "code": "VTBS",
+    "current": 32.0,
+    "max_today": 32,
+    "unit": "C",
+    "probability": 20,
+    "trend": -0.3,
+    "sky": "Cloudy",
+    "updated": "07:08 MSK"
   }
 }
