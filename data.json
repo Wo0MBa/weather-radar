@@ -2,13 +2,13 @@
   "HKO": {
     "name": "Hong Kong",
     "code": "VHHH",
-    "current": 31.5,
+    "current": 31.7,
     "max_today": 31,
     "unit": "C",
-    "probability": 65,
+    "probability": 90,
     "trend": -0.1,
     "sky": "Clear",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   },
   "S24": {
     "name": "Singapore",
@@ -19,7 +19,7 @@
     "probability": 75,
     "trend": -0.2,
     "sky": "Clear",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   },
   "KORD": {
     "name": "Chicago",
@@ -134,7 +134,7 @@
     "probability": 65,
     "trend": -0.1,
     "sky": "Clear",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   },
   "ZGGG": {
     "name": "Guangzhou",
@@ -145,7 +145,7 @@
     "probability": 65,
     "trend": -0.9,
     "sky": "Clear",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   },
   "RJTT": {
     "name": "Tokyo (Haneda)",
@@ -156,7 +156,7 @@
     "probability": 20,
     "trend": -0.1,
     "sky": "Cloudy",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   },
   "RCTP": {
     "name": "Taipei",
@@ -167,7 +167,7 @@
     "probability": 40,
     "trend": 0.6,
     "sky": "Cloudy",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   },
   "RKSS": {
     "name": "Seoul",
@@ -178,7 +178,7 @@
     "probability": 65,
     "trend": -0.7,
     "sky": "Clear",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   },
   "VTBS": {
     "name": "Bangkok",
@@ -189,6 +189,6 @@
     "probability": 20,
     "trend": -0.3,
     "sky": "Cloudy",
-    "updated": "07:08 MSK"
+    "updated": "07:18 MSK"
   }
 }
